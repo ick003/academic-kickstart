@@ -16,7 +16,7 @@ role = "Research Scientist / Statistician"
 organizations = [ { name = "CSIRO", url = "www.csiro.au" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed statisitcs and probabilistic risk assessments."
+bio = "Statistician working w/ @csiro"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -24,7 +24,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Statistics",
-  "Environmental risk"
+  "Environmental risk",
+  "Computation"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -88,9 +89,9 @@ user_groups = ["Researchers", "Visitors"]
 
 Adrien is a research statistician with interest in applied statistics and probabilistic risk assessments. I have advanced knowledge in Bayesian and computational statistics, and good knowledge in monitoring and modeling multivariate and spatio-temporal processes.
 
-He obtained his PhD in applied statistics from \href{https://www.univ-rennes1.fr/}{Universit\'{e} de Rennes 1}, France in 2010, applying statistical methods to the tracking of multiple targets using a network of basic sensors. 
+He obtained his PhD in applied statistics from <a href = "https://www.univ-rennes1.fr/" target="blank">Universite de Rennes 1</a>, France in 2010, applying statistical methods to the tracking of multiple targets using a network of basic sensors. 
 
-Between 2010 and 2012 he worked as a Lecturer in Statistics at \href{http://www.dauphine.fr/en/welcome.html}{Universit\'{e} Paris Dauphine}, France and then joined the \href{http://imt-lille-douai.fr/}{Institut Mines - T\'{e}l\'{e}com Lille - Douai}, France as a research associate. During this time, he worked in collaboration with the \href{http://www.cea.fr}{CEA} (French Alternative Energies and Atomic Energy Commission) to develop a Bayesian framework for the inverse estimation of the dispersion characteristics of Chemical, Bacteriological, Radiological and Nuclear releases in the atmosphere. 
+Between 2010 and 2012 he worked as a Lecturer in Statistics at <a href = "http://www.dauphine.fr/en/welcome.html target="blank">Universite Paris Dauphine</a>, France and then joined the <a href = "http://imt-lille-douai.fr/ target="blank">Institut Mines - Telecom Lille - Douai</a>, France as a research associate. During this time, he worked in collaboration with the <a href = "http://www.cea.fr target="blank">CEA</a> (French Alternative Energies and Atomic Energy Commission) to develop a Bayesian framework for the inverse estimation of the dispersion characteristics of Chemical, Bacteriological, Radiological and Nuclear releases in the atmosphere. 
 
-He joined \href{http://www.csiro.com.au}{CSIRO} (Commonwealth Scientific and Industrial Research Organisation) in 2012 with expertise in Bayesian modeling and spatio-temporal monitoring, with applications in signal processing. During his first years in CSIRO, he developed his research expertise in multivariate modeling, privacy preserving methods and Big Data. Since 2015, he refocused his application domain to risk analysis. 
+He joined <a href = "http://www.csiro.com.au" target="blank">CSIRO</a> (Commonwealth Scientific and Industrial Research Organisation) in 2012 with expertise in Bayesian modeling and spatio-temporal monitoring, with applications in signal processing. During his first years in CSIRO, he developed his research expertise in multivariate modeling, privacy preserving methods and Big Data. Since 2015, he refocused his application domain to risk analysis. 
 

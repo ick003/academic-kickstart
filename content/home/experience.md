@@ -18,27 +18,53 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Scientist"
+  company = "CSIRO"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Hobart, Tasmania"
+  date_start = "2015-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+As a research scientist I am responsible on the technical front for the development of statistical frameworks to address the
+issues encountered in the environmental risk space. I also use and develop my client and project management skills by
+working closely with clients, both from government and industry, to scope, propose, and implement new projects aimed at
+meeting the future environmental challenges
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Postdoctoral research fellow"
+  company = "CSIRO"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Sydney, NSW"
+  date_start = "2012-09-01"
+  date_end = "2015-08-31"
+  description = """
+  My principal role in this position was to work in statistical research for the services industry. This involved the development of statistical methodology to solve problems and meet the analytical needs of the health, government and commercial service
+domains. The role required me to interact with scientists outside their discipline as well as publish papers in peer reviewed
+journals."""
 
+[[experience]]
+  title = "Postdoctoral research fellow"
+  company = "IMT - Telecom Lille - Douai"
+  company_url = ""
+  location = "Lille, France"
+  date_start = "2011-07-01"
+  date_end = "2012-08-31"
+  description = """
+  My role as a postdoctoral associate was to provide a literature review, and then design a Bayesian framework for the estimation of the inverse problem parameters following the most recent works uncovered by the review. In collaboration with the CEA, I was then encouraged to test the developed technique using existing well known data sources."""
+
+[[experience]]
+  title = "Lecturer"
+  company = "Universite Paris Dauphine"
+  company_url = ""
+  location = "Paris, France"
+  date_start = "2010-09-01"
+  date_end = "2011-08-31"
+  description = """
+  As a lecturer in statistics I was in charge of the delivery of courses in statistics and applied statistics courses for bachelor
+and masters students. My teaching load consisted in 192 hours delivered in classrooms, and the grading of 10 different
+exams along the year.
+
+Courses: Introduction to probability, introduction of statistical inference, time series analysis, microeconomics under
+uncertainty, Poisson process in insurance, introduction to generalized linear models."""
 +++
